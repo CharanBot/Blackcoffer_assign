@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/explore"
+        android:title="Explore"
+        android:icon="@drawable/baseline_remove_red_eye_24"/>
+
+    <item
+        android:id="@+id/network"
+        android:title="Network"
+        android:icon="@drawable/baseline_apartment_24"/>
+
+    <item
+        android:id="@+id/chat"
+        android:title=""
+        android:enabled="false"/>
+
+    <item
+        android:id="@+id/contacts"
+        android:title="Contacts"
+        android:icon="@drawable/baseline_contact_phone_24"/>
+
+    <item
+        android:id="@+id/groups"
+        android:title="Groups"
+        android:icon="@drawable/baseline_group_24"/>
+
+</menu>
